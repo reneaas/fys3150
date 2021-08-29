@@ -1,2 +1,2 @@
 This is a line. 
-The original version
+This is version A
